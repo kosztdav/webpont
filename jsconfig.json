@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "checkJs": false
+    },
+    "vueCompilerOptions": {
+        "target": 3,
+        "plugins": [
+            "@volar/vue-language-plugin-pug"
+        ]
+    }
+}
